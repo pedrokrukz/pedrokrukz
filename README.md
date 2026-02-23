@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro e estou no 3° período de Ciência da Computação na Unisul de Florianópolis.<br><br>My name is Pedro, and I'm in the 3rd semester of Computer Science at Unisul in Florianópolis.</p>
+<p align="left">Meu nome é Pedro e estou no 5° período de Ciência da Computação na Unisul de Florianópolis.<br><br>My name is Pedro, and I'm in the 5rd semester of Computer Science at Unisul in Florianópolis.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Trainee | Bendito Digital | Costumer Sucess and Suport.</p>
+<p align="left">Trainee | Zaub Digital | Costumer Sucess and Suport.</p>
 
 ###
 
